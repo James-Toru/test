@@ -12,3 +12,5 @@ server.listen(port, function(error){
         console.log('server is listeniing on port' + port)
     }
 });
+
+console.log('hello')
